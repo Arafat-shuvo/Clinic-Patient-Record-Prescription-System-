@@ -4,7 +4,7 @@ A web-based Clinic Patient Record and Prescription Management System developed u
 
 ## 🚀 Features
 
-- **Patient Management** – Register, update, view, and manage patient information.
+- **Patient Management** – Register, update, view, and manage patient information
 - **Doctor Management** – Maintain doctor profiles and related information.
 - **Patient Records** – Store and access patient medical history and records.
 - **Prescription Management** – Create, manage, and view patient prescriptions.
