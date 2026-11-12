@@ -11,7 +11,7 @@ A web-based Clinic Patient Record and Prescription Management System developed u
 - **Authentication System** – Secure login, registration, and logout functionality.
 - **User Management** – Manage user accounts and access.
 - **Database Management** – Store and organize clinic-related information.
-- **Admin Dashboard** – Manage application data through Django Admin.
+- **Admin Dashboard** – Manage application data through Django Admin
 
 ## 🛠️ Technologies Used
 
